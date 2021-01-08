@@ -6,4 +6,5 @@
 
 .home-pg {
     background-image: url(./images/kubrick_background_3.jpg);
+    background-size: cover;
 }
