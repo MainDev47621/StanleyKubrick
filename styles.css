@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.home-pg {
+    background-image: url(./images/kubrick_background_3.jpg);
+}
