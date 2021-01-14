@@ -8,3 +8,17 @@
     background-image: url(./images/kubrick_background_3.jpg);
     background-size: cover;
 }
+
+.main-sec, .main-sec .row {
+    height: 100%;
+}
+
+/* .text-box {
+    
+} */
+
+/* Bio Page */
+
+.bio img {
+    clip-path: circle(30% at 50% 42%);
+}
